@@ -1,4 +1,4 @@
-﻿namespace PizzaStore.DB;
+﻿namespace PizzaStoreLocal.DB;
 
 public record Pizza
 {
